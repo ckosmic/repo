@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Donations are appreciated</name>
+			<url>https://paypal.me/ckosmic</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/ckosmic</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</footerlinks>
+</repo>
