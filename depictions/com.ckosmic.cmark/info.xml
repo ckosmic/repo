@@ -4,21 +4,32 @@
 	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common (>= 1.13)</package>
+	</dependencies>
 	<descriptionlist>
 		<description>
 		If you've ever accidentally messaged the wrong person the wrong thing, this tweak is for you.
+		</description>
+		<description>
 		NoRisk finds iMessage conversations containing a customizable list of contacts, and colors their labels red as well as switches the "iMessage" placeholder text with "Sensitive Chat".
 		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<image>norisk1.png</image>
+		</screenshot>
+		<screenshot>
+			<image>norisk2.png</image>
+		</screenshot>
+		<screenshot>
+			<image>norisk3.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
