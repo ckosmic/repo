@@ -7,7 +7,7 @@ Maintainer: Christian Kosman <support@tripleaxis.net>
 Author: Christian Kosman <support@tripleaxis.net>
 Section: Tweaks
 Depends: ws.hbang.common (>= 1.13), mobilesubstrate
-Filename: debs/com.ckosmic.cmark_0.0.1-122_iphoneos-arm.deb
+Filename: ./debs/com.ckosmic.cmark_0.0.1_iphoneos-arm.deb
 Size: 20230
 MD5sum: 83884e6296eeff5769d5a0ab82f1e46e
 Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.cmark
