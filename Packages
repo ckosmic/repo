@@ -2,7 +2,7 @@ Package: com.ckosmic.cmark
 Name: NoRisk
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: If you've ever accidentally messaged the wrong person the wrong thing, this tweak is for you.  NoRisk finds iMessage conversations containing a customizable list of contacts, and colors their labels red as well as switches the "iMessage" placeholder text with "Sensitive Chat".
+Description: Warns user of risky iMessage conversations.
 Maintainer: Christian Kosman <support@tripleaxis.net>
 Author: Christian Kosman <support@tripleaxis.net>
 Section: Tweaks
