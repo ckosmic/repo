@@ -9,5 +9,7 @@ Section: Tweaks
 Depends: ws.hbang.common (>= 1.13), mobilesubstrate
 Filename: ./debs/com.ckosmic.cmark_0.0.1_iphoneos-arm.deb
 Size: 12506
+SHA1: c00d6ca1276d0b6e246021212bebb8104be8f110
+SHA256: b88c28e99b8b981594fa2acd110cb17d65096f685484e156417d2421fdfcff7f
 MD5sum: 8e585db3fb35ce4624a5761db42c4840
 Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.cmark
