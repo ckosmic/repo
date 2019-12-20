@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.2</version>
+		<change>Fixed conversation titles being white in light mode</change>
+	<changes>
+	</changes>
 		<version>0.0.1</version>
 		<change>Initial release</change>
 	</changes>
