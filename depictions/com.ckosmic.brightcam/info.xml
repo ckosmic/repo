@@ -1,0 +1,27 @@
+<package>
+	<id>com.ckosmic.brightcam</id>
+	<name>BrightCam</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+		Short description: Turns the screen's brightness to 100% when using the camera app.
+		</description>
+		<description>
+		Interesting description: Have you ever been to a concert and wondered why some people's phone cameras look so much better than yours?  Most of the time, it's because it's an Android and they have a feature where the screen's brightness gets turned all the way up to get a clearer shot.  This tweak does just that.  Opening the default camera app whether it be from the lock screen or the home screen will turn the screen's brightness to 100% and restore it once the app is closed.
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

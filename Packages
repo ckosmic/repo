@@ -13,3 +13,19 @@ SHA1: 256b8988476740f99380bdc6ef63409defa998c4
 SHA256: f11d418d555cb754e85af3d61c6d60f09d5b34d7c8afdaa12c547521e4cd00c6
 MD5sum: 1c4f0c5968eba6ca496af7abda6e9fe3
 Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.cmark
+
+Package: com.ckosmic.brightcam
+Name: BrightCam
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Turns screen brightness to 100% when the camera app is opened.
+Maintainer: Christian Kosman <support@tripleaxis.net>
+Author: Christian Kosman <support@tripleaxis.net>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.ckosmic.brightcam_0.0.1_iphoneos-arm.deb
+Size: 4370
+SHA1: 684897e6f3d69ba42e77153ee54ef565b948b374
+SHA256: c6d16e83b06caebdc2f6deb5c130c5b24dbe2618130e585e1ca32bb01cb1e529
+MD5sum: 7fe6196403aa49f41356bef9af92f869
+Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.brightcam
