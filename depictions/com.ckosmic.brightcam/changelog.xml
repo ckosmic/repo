@@ -1,5 +1,11 @@
 <changelog>
 	</changes>
+		<version>0.1.0</version>
+		<change>Complete rewrite of the whole tweak</change>
+		<change>Fixed resprings and SpringBoard crashes</change>
+		<change>More accurate app detection</change>
+	</changes>
+	</changes>
 		<version>0.0.1</version>
 		<change>Initial release</change>
 	</changes>
