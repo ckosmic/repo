@@ -1,5 +1,9 @@
 <changelog>
 	</changes>
+		<version>0.1.1</version>
+		<change>Added support for arm64e and armv7</change>
+	</changes>
+	</changes>
 		<version>0.1.0</version>
 		<change>Complete rewrite of the whole tweak</change>
 		<change>Fixed resprings and SpringBoard crashes</change>

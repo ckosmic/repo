@@ -1,7 +1,7 @@
 <package>
 	<id>com.ckosmic.cmark</id>
 	<name>NoRisk</name>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -31,7 +31,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed conversation titles being white in light mode</change>
+		<change>Added support for arm64e and armv7</change>
 	</changelog>
 	<links></links>
 </package>
