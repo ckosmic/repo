@@ -1,47 +1,134 @@
-Package: com.ckosmic.cmark
-Name: NoRisk
-Version: 0.0.3
+Package: com.ckosmic.brightcam
+Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Warns user of risky iMessage conversations.
-Maintainer: Christian Kosman <support@tripleaxis.net>
-Author: Christian Kosman <support@tripleaxis.net>
+Maintainer: ckosmic
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.ckosmic.brightcam_0.0.1_iphoneos-arm.deb
+Size: 4370
+MD5sum: 7fe6196403aa49f41356bef9af92f869
+SHA1: 684897e6f3d69ba42e77153ee54ef565b948b374
+SHA256: c6d16e83b06caebdc2f6deb5c130c5b24dbe2618130e585e1ca32bb01cb1e529
 Section: Tweaks
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.ckosmic.cmark_0.0.3_iphoneos-arm.deb
-Size: 18414
-MD5sum: 7ac378305a5a37e26de94df306c8f8f4
-SHA1: 24c075d3c6c88d4a7f53dda9cf7285f0dc394fb9
-SHA256: 3f57849ac9b0b62a6992fab8ef6ee55c081c5bcf413ff857a80daeb5b3752d51
-Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.cmark
+Description: Turns screen brightness to 100% when the camera app is opened.
+Author: ckosmic
+Name: BrightCam
 
 Package: com.ckosmic.brightcam
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: ckosmic
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.ckosmic.brightcam_0.1.0_iphoneos-arm.deb
+Size: 4916
+MD5sum: c5b2a847939533c843f02f3e930679fe
+SHA1: 8b30c7011067e34391d54cd815f5cf97fecf6aed
+SHA256: e7b4e4ca0e9c41fd3f2aef969d804174beb18cea8a09e3dcfbdcf5d02f1f0eed
+Section: Tweaks
+Description: Turns screen brightness to 100% when the camera app is opened.
+Author: ckosmic
 Name: BrightCam
+
+Package: com.ckosmic.brightcam
 Version: 0.1.1
 Architecture: iphoneos-arm
-Description: Turns screen brightness to 100% when the camera app is opened.
 Maintainer: Christian Kosman <support@tripleaxis.net>
-Author: Christian Kosman <support@tripleaxis.net>
-Section: Tweaks
+Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.ckosmic.brightcam_0.1.1_iphoneos-arm.deb
 Size: 5360
 MD5sum: 7cc7e3bcc5728923050dfb28adbe6975
 SHA1: 8032b01986fe474099adf75d1e05985ff88b7d9f
 SHA256: d89cf8b50a27c4ae386a60c4e9e9d118c9ef333f4ffc48758f668b08aa3a68fc
+Section: Tweaks
+Description: Turns screen brightness to 100% when the camera app is opened.
+Author: Christian Kosman <support@tripleaxis.net>
 Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.brightcam
+Name: BrightCam
 
-Package: com.ckosmic.wiredock
-Name: WireDock
+Package: com.ckosmic.cmark
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: ckosmic
+Installed-Size: 220
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: ./debs/com.ckosmic.cmark_0.0.1_iphoneos-arm.deb
+Size: 12506
+MD5sum: 8e585db3fb35ce4624a5761db42c4840
+SHA1: c00d6ca1276d0b6e246021212bebb8104be8f110
+SHA256: b88c28e99b8b981594fa2acd110cb17d65096f685484e156417d2421fdfcff7f
+Section: Tweaks
+Description: iMessage tweak
+Author: ckosmic
+Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.cmark
+Name: cmark
+
+Package: com.ckosmic.cmark
 Version: 0.0.2
 Architecture: iphoneos-arm
-Description: Turns the dock into a customizable outline.
-Maintainer: Christian Kosman <support@tripleaxis.net>
-Author: Christian Kosman <support@tripleaxis.net>
+Maintainer: ckosmic
+Installed-Size: 220
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.ckosmic.cmark_0.0.2_iphoneos-arm.deb
+Size: 12574
+MD5sum: 1c4f0c5968eba6ca496af7abda6e9fe3
+SHA1: 256b8988476740f99380bdc6ef63409defa998c4
+SHA256: f11d418d555cb754e85af3d61c6d60f09d5b34d7c8afdaa12c547521e4cd00c6
 Section: Tweaks
+Description: iMessage tweak
+Author: ckosmic
+Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.cmark
+Name: cmark
+
+Package: com.ckosmic.cmark
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Christian Kosman <support@tripleaxis.net>
+Installed-Size: 476
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.ckosmic.cmark_0.0.3_iphoneos-arm.deb
+Size: 18414
+MD5sum: 7ac378305a5a37e26de94df306c8f8f4
+SHA1: 24c075d3c6c88d4a7f53dda9cf7285f0dc394fb9
+SHA256: 3f57849ac9b0b62a6992fab8ef6ee55c081c5bcf413ff857a80daeb5b3752d51
+Section: Tweaks
+Description: iMessage tweak
+Author: Christian Kosman <support@tripleaxis.net>
+Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.cmark
+Name: NoRisk
+
+Package: com.ckosmic.wiredock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Christian Kosman <support@tripleaxis.net>
+Installed-Size: 472
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.ckosmic.wiredock_0.0.1_iphoneos-arm.deb
+Size: 17480
+MD5sum: b4cad24b8a1a8bacab04f32ddba72fc1
+SHA1: ca409dc25814563a64da99c492408f53d4550ea6
+SHA256: c21233f56d80a605e89894e04e971f29b267288cafb84da34d5e7309156168d4
+Section: Tweaks
+Description: Turns the dock into a customizable outline.
+Author: Christian Kosman <support@tripleaxis.net>
+Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.wiredock
+Name: WireDock
+
+Package: com.ckosmic.wiredock
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Christian Kosman <support@tripleaxis.net>
+Installed-Size: 472
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.ckosmic.wiredock_0.0.2_iphoneos-arm.deb
 Size: 17532
 MD5sum: 7c1d14e4b0a411305a0307839230cca3
 SHA1: eefbca5d6e46ae69ff15c7bd770447d19dcbc59d
 SHA256: dc361023dafa3acdfc18cea9235298a724e6b042d7aeb3c8dd05912603cf9b8c
+Section: Tweaks
+Description: Turns the dock into a customizable outline.
+Author: Christian Kosman <support@tripleaxis.net>
 Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.wiredock
+Name: WireDock
+
