@@ -34,14 +34,14 @@ Package: com.ckosmic.wiredock
 Name: WireDock
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Turns the dock into a customizable outline
+Description: Turns the dock into a customizable outline.
 Maintainer: Christian Kosman <support@tripleaxis.net>
 Author: Christian Kosman <support@tripleaxis.net>
 Section: Tweaks
-Depends: mobilesubstrate, libcolorpicker
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/com.ckosmic.wiredock_0.0.1_iphoneos-arm.deb
-Size: 17454
-MD5sum: 3d7d8fe128783c800345342296579892
-SHA1: 02ab3c37b29886974309b1da7e3e5bf2d63906b2
-SHA256: f02f71a09ca8b1dc0d99d13d31a811c506635b6f2098903fbd0581e8429608c5
+Size: 17480
+MD5sum: b4cad24b8a1a8bacab04f32ddba72fc1
+SHA1: ca409dc25814563a64da99c492408f53d4550ea6
+SHA256: c21233f56d80a605e89894e04e971f29b267288cafb84da34d5e7309156168d4
 Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.wiredock
