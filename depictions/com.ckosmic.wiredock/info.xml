@@ -1,0 +1,31 @@
+<package>
+	<id>com.ckosmic.wiredock</id>
+	<name>WireDock</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>libcolorpicker</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+		WireDock transforms your dock into a glyph outline that can be customized from the Settings app with adjustable width and color.  Compared to DockOutline, this tweak uses the existing dock shape to make it accurately look like the original.
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss1.png</image>
+		</screenshot>
+		<screenshot>
+			<image>ss2.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
