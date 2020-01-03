@@ -1,5 +1,9 @@
 <changelog>
     </changes>
+        <version>0.0.3</version>
+        <change>Added option to keep the dock background</change>
+    </changes>
+    </changes>
         <version>0.0.2</version>
         <change>Fixed dock being invisible before changing width in settings</change>
     </changes>
