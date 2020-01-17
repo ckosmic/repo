@@ -1,0 +1,31 @@
+<package>
+	<id>com.ckosmic.wireicons</id>
+	<name>WireIcons</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>libcolorpicker</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+		WireIcons makes glyph themes look more uniform by adding a border around each app icon.  The icon's image can be scaled to fit the border, the color, width, and corner radii of the icons can also be adjusted.
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss1.JPG</image>
+		</screenshot>
+		<screenshot>
+			<image>ss2.JPG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
