@@ -1,5 +1,9 @@
 <changelog>
     </changes>
+        <version>0.2.0</version>
+        <change>Added a dynamic color feature that sets the wire color to the average icon color</change>
+    </changes>
+    </changes>
         <version>0.0.2</version>
         <change>Requires iOS 13 or higher</change>
     </changes>
