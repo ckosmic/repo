@@ -199,3 +199,20 @@ Author: Christian Kosman <support@tripleaxis.net>
 Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.wireicons
 Name: WireIcons
 
+Package: com.ckosmic.wireicons
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: Christian Kosman <support@tripleaxis.net>
+Installed-Size: 404
+Depends: firmware (>=13.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.ckosmic.wireicons_0.2.1_iphoneos-arm.deb
+Size: 17200
+MD5sum: 12e34ac2d34bbc34a23b607a775bed77
+SHA1: 789c6f80c78af5ede1f347ad930855a881601ed9
+SHA256: 81e853a0bb82e9721bbd4fe691a57435f0def6ee2fa72d6ce46813bc0a4957be
+Section: Tweaks
+Description: Customizable border around app icons.
+Author: Christian Kosman <support@tripleaxis.net>
+Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.wireicons
+Name: WireIcons
+

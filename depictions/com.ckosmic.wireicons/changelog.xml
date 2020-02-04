@@ -1,5 +1,10 @@
 <changelog>
     </changes>
+        <version>0.2.1</version>
+        <change>Performance improvements</change>
+        <change>Added a sample size option for dynamic coloring</change>
+    </changes>
+    </changes>
         <version>0.2.0</version>
         <change>Added a dynamic color feature that sets the wire color to the average icon color</change>
     </changes>
