@@ -98,6 +98,22 @@ Author: Christian Kosman <support@tripleaxis.net>
 Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.cmark
 Name: NoRisk
 
+Package: com.ckosmic.hidewidgetnames
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Christian Kosman
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ckosmic.hidewidgetnames_0.0.1_iphoneos-arm.deb
+Size: 3086
+MD5sum: fa05e70fbf65f35b94dc1f89b5cb5e39
+SHA1: 0ecf839e0ba66567b6e0cc801e4d6890735443f8
+SHA256: ae5355e1c8907dc9e6dc77a126ede4ec5cff075d6639600346799d98e11fdd28
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Christian Kosman
+Name: HideWidgetNames
+
 Package: com.ckosmic.wiredock
 Version: 0.0.1
 Architecture: iphoneos-arm
