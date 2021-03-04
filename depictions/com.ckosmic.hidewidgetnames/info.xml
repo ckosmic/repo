@@ -1,0 +1,24 @@
+<package>
+	<id>com.ckosmic.hidewidgetnames</id>
+	<name>HideWidgetNames</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+		Short description: Hides widget labels.
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		
+	</changelog>
+	<links></links>
+</package>
